@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { Item } from './types'
 
-// Replace with your API endpoint
+
 const API_URL = 'https://www.simcompanies.com/api/v3/market/0/139/'
 
 export const fetchCandlestickData = async () => {

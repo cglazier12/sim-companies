@@ -1,9 +1,9 @@
 import React from 'react'
 import { BellIcon } from '@heroicons/react/24/solid'
-import Test from './pages/test'
-import LeftColumn from './pages/LeftColumn'
-import RightColumn from './pages/RightColumn'
-import CandlestickChart from './components/charts/candlestick'
+import Test from './Pages/test'
+import LeftColumn from './Pages/LeftColumn'
+import RightColumn from './Pages/RightColumn'
+import CandlestickChart from './Components/Charts/candlestick'
 
 const App: React.FC = () => {
   return (

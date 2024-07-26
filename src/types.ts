@@ -21,3 +21,8 @@ export interface Item {
     fees: number
   }
 
+export interface IData {
+  name: string
+  data: number
+  // define your fields
+}
